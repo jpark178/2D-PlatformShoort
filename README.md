@@ -1,15 +1,15 @@
 Our game is a 2D, side scrolling shooter created in Unity (C#) with Visual Studio.
 
 Scripts:
-ArmRotation- Rotates player’s arm based on mouse position to aim weapon
-AudioManager- Plays game music
-CharacterController2D- Handles player collision, jumping, player direction
-EnemyDetection- Used for flying type enemy to detect the player
-EnemyMovement- Controls grounded enemy movement
-EnemyProjectile- Information for projectile type enemy
-EnemyShoot- Handles projectile type enemy shooting
-EnemyChaseDamage- Damages player
-EnemyDummyDamage- Damages player
+ArmRotation- Rotates player’s arm based on mouse position to aim weapon\n
+AudioManager- Plays game music\n
+CharacterController2D- Handles player collision, jumping, player direction\n
+EnemyDetection- Used for flying type enemy to detect the player\n
+EnemyMovement- Controls grounded enemy movementn\n
+EnemyProjectile- Information for projectile type enemy\n
+EnemyShoot- Handles projectile type enemy shooting\n
+EnemyChaseDamage- Damages player\n
+EnemyDummyDamage- Damages player\n
 EnemyFlyingDamage- Damages player
 EnemyFlip- Flip enemy sprite based on the direction it is moving
 AIDestinationSetter- A* algorithm to path to player
