@@ -1,4 +1,6 @@
-Our game is a 2D, side scrolling shooter created in Unity (C#) with Visual Studio.
+2D side scrolling shooter created in Unity (C#) with Visual Studio.  
+Senior Design Project for Computer Graphics (CS179N) course at UCR   
+4-man group game development in Agile. (Team Lead)  
 
 Scripts:  
 ArmRotation- Rotates player’s arm based on mouse position to aim weapon  
