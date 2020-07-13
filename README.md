@@ -1,8 +1,17 @@
-2D side scrolling shooter created in Unity (C#) with Visual Studio.  
-Senior Design Project for Computer Graphics (CS179N) course at UCR   
-4-man group game development in Agile. (Team Lead)  
+# 2D side scrolling shooter created in Unity (C#) with Visual Studio.  
 
-Scripts:  
+Senior Design Project for Computer Graphics (CS179N) course at UCR   
+5-man group game development in Agile. (Team Lead)  
+
+## Team:  
+* JaeHyun Park  
+* Tom Shih  
+* Bryan Nguyen  
+* Jason Chan  
+* Daniel Li  
+
+## Scripts:  
+
 ArmRotation- Rotates player’s arm based on mouse position to aim weapon  
 AudioManager- Plays game music  
 CharacterController2D- Handles player collision, jumping, player direction  
@@ -32,10 +41,10 @@ Weapon- Basic weapon implementation with damage, fire rate, etc… Also handles 
 WeaponPickUp- Allows players to pick up weapons from the ground.  
 WeaponSwitch- Allows user to switch between weapons that the player picked up  
 
-Algorithms:  
+## Algorithms:  
 We used the A* search algorithm used to path our flying enemies. Unity has its own pathfinding algorithm, but since one of our members had experience with the A* package, we decided to use that instead.  
 
-Feature Implementations:  
+## Feature Implementations:  
 -Weapons System  
 -Sound System  
 -Health System  
